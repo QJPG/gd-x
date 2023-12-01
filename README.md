@@ -8,11 +8,11 @@ Godot plugin for async resource for games.
 
 ***Representation***
 
-![banner 1](https://www.dropbox.com/scl/fi/hf6hz515vwq1ux2t5ope2/ezgif.com-video-to-gif.gif?rlkey=avy4h1hr5i3tgfbladztc5by5&dl=1)
+![banner 1](https://github.com/QJPG/assets/blob/main/ezgif.com-video-to-gif.gif?raw=true)
 
 ***Representation***
 
-![banner 2](https://www.dropbox.com/scl/fi/0h4oxavrkshcsbudxyo6o/model_asset_creator_studio.png?rlkey=nq27hpcy7lfe4s1wsd1iifzh5&dl=1)
+![banner 2](https://github.com/QJPG/assets/blob/main/model_asset_creator_studio.png?raw=true)
 
 > Load PNG/JPG/WEBP/BMP images from internet
 > 
