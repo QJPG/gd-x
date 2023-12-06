@@ -1,6 +1,6 @@
 
 # gd-xt
-Godot plugin for async resource for games.
+Godot(3.5 current version) plugin for async resource for games. 
 
 ![Icon 1](https://github.com/QJPG/gd-xt/blob/main/icon.png "")
 
